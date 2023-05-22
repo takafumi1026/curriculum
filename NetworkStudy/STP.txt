@@ -1,0 +1,21 @@
+問１
+
+Switch：３
+
+問２
+
+Switch1
+F0/1 DP
+F0/2 RP
+
+Switch2
+F0/1 RP
+F0/2 BP
+
+Switch3
+E0/1 DP
+E0/2 DP
+
+Switch4
+E0/1 DP
+E0/2 RP
